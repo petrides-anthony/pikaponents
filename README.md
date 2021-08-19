@@ -4,3 +4,18 @@ A React Component Library
 
  # Pikaponents
 
+## Running the project
+- `yarn`
+- `yarn build-storybook`
+- `yarn storybook`
+
+## Publishing
+`yarn build`
+`npm publish`
+
+## Consuming a component
+`import { Button } from "my-awesome-component-library";`
+
+ ### Sources:
+ - https://prateeksurana.me/blog/react-component-library-using-storybook-6/#setting-up-the-project
+
