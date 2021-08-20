@@ -14,7 +14,7 @@ A React Component Library
 `npm publish`
 
 ## Consuming a component
-`import { Button } from "my-awesome-component-library";`
+`import { Button } from pikaponents;`
 
  ### Sources:
  - https://prateeksurana.me/blog/react-component-library-using-storybook-6/#setting-up-the-project
