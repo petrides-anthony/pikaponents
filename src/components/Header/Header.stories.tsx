@@ -7,7 +7,6 @@ export default {
   title: "Components/Header",
   component: Header,
   argTypes: {
-    headerColour: { control: 'color' },
   },
 } as Meta;
 
