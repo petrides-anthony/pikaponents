@@ -17,4 +17,5 @@ A React Component Library written with Node, React, TypeScript, Rollup and Story
 
  ### Sources:
  - https://prateeksurana.me/blog/react-component-library-using-storybook-6/#setting-up-the-project
+ - https://andrebnassis.medium.com/setting-eslint-on-a-react-typescript-project-2021-1190a43ffba
 
