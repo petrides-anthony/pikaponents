@@ -12,8 +12,10 @@ A React Component Library written with Node, React, TypeScript, Rollup and Story
 `yarn build`
 `npm publish`
 
-## Consuming a component
-`import { Button } from pikaponents;`
+## Installing a component within another project
+1. `yarn add pikaponents`
+2. Import the desired component. For example: `import { Header } from 'pikaponents'`
+
 
  ### Sources:
  - https://prateeksurana.me/blog/react-component-library-using-storybook-6/#setting-up-the-project
